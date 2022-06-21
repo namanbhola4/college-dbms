@@ -15,3 +15,7 @@ The frontend is designed with Bootstrap. Overall the project is going to follow 
 Apart from an A+ grade I don't know what else. The roadmaps and feature expectations for the project are doucmented at [https://shermix.keybase.pub/OASM_Project_shermisaurus.pdf](https://shermix.keybase.pub/OASM_Project_shermisaurus.pdf) as a synopsis file.
 
 Update: We got a B anyways :/
+| FirstName     | LastName      | City     |
+| ------------- | ------------- | -------- |
+| John          | Test1         | NewYork  |
+| Bob           | Test2         | Toronto  |
